@@ -96,6 +96,30 @@
   "collections": "Fashion Walls"
  },
 {
+  "url": "https://raw.githubusercontent.com/ACESetup/WallMirah.json/main/Cars%20(1).jpg",
+  "name": "Vintage Cars",
+  "author": "Apex",
+  "collections": "Cars Walls"
+ },
+{
+  "url": "https://raw.githubusercontent.com/ACESetup/WallMirah.json/main/Cars%20(2).jpg",
+  "name": "Vintage Cars",
+  "author": "Apex",
+  "collections": "Cars Walls"
+ },
+{
+  "url": "https://raw.githubusercontent.com/ACESetup/WallMirah.json/main/Cars%20(3).jpg",
+  "name": "Vintage Cars",
+  "author": "Apex",
+  "collections": "Cars Walls"
+ },
+{
+  "url": "https://raw.githubusercontent.com/ACESetup/WallMirah.json/main/Cars%20(4).jpg",
+  "name": "Vintage Cars",
+  "author": "Apex",
+  "collections": "Cars Walls"
+ },
+{
   "url": "https://raw.githubusercontent.com/ACESetup/WallMirah.json/main/Supermodels%20(2).jpg",
   "name": "Supermodel",
   "author": "Apex",
