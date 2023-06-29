@@ -1048,5 +1048,32 @@
   "name": "Snow Voyeger",
   "author": "Apex",
   "collections": "Vector Walls"
+ },
+{
+  "url": "https://raw.githubusercontent.com/ACESetup/WallMirah.json/main/Space_vector_graphics%20(1).jpg",
+  "name": "Planetary Voyeger",
+  "author": "Apex",
+  "collections": "Vector Walls"
+ }
+,
+{
+  "url": "https://raw.githubusercontent.com/ACESetup/WallMirah.json/main/Space_vector_graphics%20(2).jpg",
+  "name": "Planetary Voyeger",
+  "author": "Apex",
+  "collections": "Vector Walls"
+ }
+,
+{
+  "url": "https://raw.githubusercontent.com/ACESetup/WallMirah.json/main/Space_vector_graphics%20(3).jpg",
+  "name": "Planetary Voyeger",
+  "author": "Apex",
+  "collections": "Vector Walls"
+ }
+,
+{
+  "url": "https://raw.githubusercontent.com/ACESetup/WallMirah.json/main/Space_vector_graphics%20(4).jpg",
+  "name": "Planetary Voyeger",
+  "author": "Apex",
+  "collections": "Vector Walls"
  }
 ]
