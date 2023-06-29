@@ -880,5 +880,23 @@
   "name": "Ship",
   "author": "Apex",
   "collections": "AMOLED"
+ },
+{
+  "url": "https://raw.githubusercontent.com/ACESetup/WallMirah.json/main/SuperHero-Heroine%20(1).jpg",
+  "name": "Lara Croft",
+  "author": "Apex",
+  "collections": "SuperHero-Heroine"
+ },
+{
+  "url": "https://raw.githubusercontent.com/ACESetup/WallMirah.json/main/SuperHero-Heroine%20(3).jpg",
+  "name": "Lara Croft",
+  "author": "Apex",
+  "collections": "SuperHero-Heroine"
+ },
+{
+  "url": "https://raw.githubusercontent.com/ACESetup/WallMirah.json/main/SuperHero-Heroine%20(4).jpg",
+  "name": "Lara Croft",
+  "author": "Apex",
+  "collections": "SuperHero-Heroine"
  }
 ]
