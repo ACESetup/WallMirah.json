@@ -898,5 +898,23 @@
   "name": "Lara Croft",
   "author": "Apex",
   "collections": "SuperHero-Heroine"
+ },
+{
+  "url": "https://raw.githubusercontent.com/ACESetup/WallMirah.json/main/Space%20Voyeger%20(1).jpg",
+  "name": "Space Voyeger",
+  "author": "Apex",
+  "collections": "Space"
+ },
+{
+  "url": "https://raw.githubusercontent.com/ACESetup/WallMirah.json/main/Space%20Voyeger%20(2).jpg",
+  "name": "Space Voyeger",
+  "author": "Apex",
+  "collections": "Space"
+ },
+{
+  "url": "https://raw.githubusercontent.com/ACESetup/WallMirah.json/main/Space%20Voyeger%20(3).jpg",
+  "name": "Space Voyeger",
+  "author": "Apex",
+  "collections": "Space"
  }
 ]
